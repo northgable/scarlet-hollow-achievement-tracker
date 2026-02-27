@@ -1,1 +1,2009 @@
-[]
+[
+  {
+    "key": "that_damned_smile",
+    "name": "That Damned Smile.",
+    "description": "Get your cousin to flash her Pearly Whites.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/5cb575562ab447121bb7a918c65c391adc9ca85d.jpg",
+    "apiname": "ACH_SMILE"
+  },
+  {
+    "key": "ditchling",
+    "name": "Ditchling",
+    "description": "Finish Episode 1.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/25e2b7eebaa971d7badd318e21e4e06e2ad55713.jpg",
+    "apiname": "ACH_DITCHLING"
+  },
+  {
+    "key": "cooking_by_the_book",
+    "name": "Cooking by the book.",
+    "description": "Follow the recipe.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/ee13b5c3f4e4c5c6d849859f94d607520f68b71d.jpg",
+    "apiname": "ACH_PBJ"
+  },
+  {
+    "key": "tommyknocker",
+    "name": "Tommyknocker",
+    "description": "Finish Episode 2.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/76617088fab691ab87f805b7a981d6501ba51fa1.jpg",
+    "apiname": "ACH_TOMMYKNOCKER"
+  },
+  {
+    "key": "poor_trigger_discipline",
+    "name": "Poor Trigger Discipline",
+    "description": "An unfortunate accident.",
+    "chapter": 0,
+    "tags": [],
+    "guide": "Choose to save Gretchen in the woods. ",
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/aa12ec18a72ba96ad9c1ada5ecccfc0a10997d22.jpg",
+    "apiname": "ACH_DUKERIP"
+  },
+  {
+    "key": "wash_away_your_sins",
+    "name": "Wash away your sins",
+    "description": "Shower.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/4b6aea495a3312a21a4b9e1b47745ca5ec44208b.jpg",
+    "apiname": "ACH_SHOWER"
+  },
+  {
+    "key": "resonant",
+    "name": "Resonant",
+    "description": "Finish Episode 3.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/789086258e77e970726ca880fca0c08eb32b6831.jpg",
+    "apiname": "ACH_RESONANT"
+  },
+  {
+    "key": "fusion",
+    "name": "Fusion",
+    "description": "Take a menu option that requires two traits.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/f57f9b96b7875053b27b22e50bbf1f6e053b0249.jpg",
+    "apiname": "ACH_combo"
+  },
+  {
+    "key": "good_cousin",
+    "name": "Good Cousin",
+    "description": "End Episode 1 at the Estate",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/fa119b1a3a476525172f8a60d6296392b02f8be7.jpg",
+    "apiname": "ACH_ESTATE1"
+  },
+  {
+    "key": "coffee_date",
+    "name": "Coffee Date",
+    "description": "Get coffee with Avery.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/0e99c201f5ab2fa7eb86ebf129755e9006b728d3.jpg",
+    "apiname": "ACH_COFFEE"
+  },
+  {
+    "key": "confidant",
+    "name": "Confidant",
+    "description": "Tell Avery the truth about last night.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/d82f455d14ce77a626cb5da088b5c62f409147f6.jpg",
+    "apiname": "ACH_CONFIDANT"
+  },
+  {
+    "key": "still_life",
+    "name": "Still Life",
+    "description": "Visit Stella's on Thursday morning.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/32f8bc0ecc87eaf595292f0453c0542353f9bf4d.jpg",
+    "apiname": "ACH_STILL"
+  },
+  {
+    "key": "the_artist",
+    "name": "The Artist",
+    "description": "Finish Episode 4.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/3a3e355a6dfdd8405feb497c7f1341b4b0f40918.jpg",
+    "apiname": "ACH_ARTIST"
+  },
+  {
+    "key": "urban_explorer",
+    "name": "Urban Explorer",
+    "description": "Explore every room of the estate before going to town in Episode 1.",
+    "chapter": 1,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/f83f0341f923de3b0ce8f4effddf7cdf9289c0e5.jpg",
+    "apiname": "ACH_URBAN"
+  },
+  {
+    "key": "time_to_whip_out_the_old_string_and_corkboard",
+    "name": "Time to Whip Out the Old String and Corkboard",
+    "description": "Read your family's medical records.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/65011e05ed3582059c6951851defc5f16ebe5121.jpg",
+    "apiname": "ACH_WHOAMI"
+  },
+  {
+    "key": "the_sins_of_the_father",
+    "name": "The Sins of the Father...",
+    "description": "Resolve the Haunting without using a special trait.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/11078d77f21c0471ac51778e52f07a1a5c652cae.jpg",
+    "apiname": "ACH_SINS"
+  },
+  {
+    "key": "tea_reading",
+    "name": "Tea Reading",
+    "description": "Drink the tea. It's good for you.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/e8182b1373b2d2421f9cf08dabe99ec9afeed04e.jpg",
+    "apiname": "ACH_TEA"
+  },
+  {
+    "key": "into_the_woods_again",
+    "name": "Into the Woods... Again",
+    "description": "Walk with Stella to the mines.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/b790f925e591656b83772d0a163fe6be3ad8669d.jpg",
+    "apiname": "ACH_WALKSTELLA"
+  },
+  {
+    "key": "whats_the_buzz",
+    "name": "What's the Buzz?",
+    "description": "Visit the Diner in Episode 4.",
+    "chapter": 4,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/6d93f51895213c84a81223554daf050eefed1d7e.jpg",
+    "apiname": "ACH_DINER4"
+  },
+  {
+    "key": "the_smallest_church_in_scarlet_hollow",
+    "name": "The Smallest Church in Scarlet Hollow",
+    "description": "Visit the Church in Episode 4.",
+    "chapter": 4,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/89b0e23953f7ab5622735223f029cf1295ef4123.jpg",
+    "apiname": "ACH_CHURCH4"
+  },
+  {
+    "key": "mail_time",
+    "name": "Mail Time",
+    "description": "Finish Episode 1 with Keen Eye as one of your traits.",
+    "chapter": 1,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/5ef6d4d6f92f4e7fc3d189da562a344e862dbeda.jpg",
+    "apiname": "ACH_KEEN1"
+  },
+  {
+    "key": "no_man_left_behind",
+    "name": "No Man Left Behind",
+    "description": "Go back to save Becka and Alexis.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/42e15327ac992635c368c7e1436bc9449a53445f.jpg",
+    "apiname": "ACH_NOMANLEFT"
+  },
+  {
+    "key": "pasta_puppeteer",
+    "name": "Pasta Puppeteer",
+    "description": "Finish Episode 1 with Talk to Animals as one of your traits.",
+    "chapter": 1,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/f86353aebf359f6814529540a7a9e03f24e2813f.jpg",
+    "apiname": "ACH_TTA1"
+  },
+  {
+    "key": "slumber_party",
+    "name": "Slumber Party!",
+    "description": "End Episode 1 at Stella's.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/be0d895e583d8f20b26aac7dd4078f37ae46674c.jpg",
+    "apiname": "ACH_SLUMBER"
+  },
+  {
+    "key": "enoby_darkness_dementia_raven_way",
+    "name": "Enoby Dark'ness Dementia Raven Way",
+    "description": "Finish Episode 1 with Mystical as one of your traits.",
+    "chapter": 1,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/9219c589b60452671c856041ccd03b6faa5d3bfe.jpg",
+    "apiname": "ACH_MYST1"
+  },
+  {
+    "key": "playing_the_field",
+    "name": "Playing the Field",
+    "description": "Keeping your options open.",
+    "chapter": 0,
+    "tags": [],
+    "guide": "Individually message Kaneeka and Stella.",
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/0aa97d4fbc6624a02d96f6a5ca5840ab949a0791.jpg",
+    "apiname": "ACH_PLAYFIELD"
+  },
+  {
+    "key": "just_browsing",
+    "name": "Just Browsing",
+    "description": "Visit the general store without stealing anything.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/65a947d7e695e6d7715509626fcebc93da2dd8f8.jpg",
+    "apiname": "ACH_BROWSING"
+  },
+  {
+    "key": "picket_line",
+    "name": "Picket Line",
+    "description": "Visit the Mines in Episode 4.",
+    "chapter": 4,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/1fbeb84695adc81a31e5811c28a5c35cd2322daf.jpg",
+    "apiname": "ACH_MINES"
+  },
+  {
+    "key": "keeping_the_status_quo",
+    "name": "Keeping the status quo",
+    "description": "Lock him away.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/b5c95f861125ffbf75773d84bfcae6bbcd084ef6.jpg",
+    "apiname": "ACH_STATUS_QUO"
+  },
+  {
+    "key": "courtesy_call",
+    "name": "Courtesy Call",
+    "description": "Call Tabitha to tell her about Rosalina, but don't wait for her.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/145417b6215d6d1f3069d5799a028ffca921820e.jpg",
+    "apiname": "ACH_COURTESYCALL"
+  },
+  {
+    "key": "candy_from_a_baby",
+    "name": "Candy From a Baby",
+    "description": "Finish Episode 1 with Street Smart as one of your traits.",
+    "chapter": 1,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/6ba9956c21b30134b1f3514e127e44af0f75ddd8.jpg",
+    "apiname": "ACH_STREET1"
+  },
+  {
+    "key": "nosy_nancy",
+    "name": "Nosy Nancy",
+    "description": "Talk to all three groups of miners.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/864d6cd14cf7ac8fbe2483925cca4b4a2614c2ff.jpg",
+    "apiname": "ACH_NOSYNANCY"
+  },
+  {
+    "key": "old_yeller",
+    "name": "Old Yeller",
+    "description": "Do what has to be done.",
+    "chapter": 0,
+    "tags": [],
+    "guide": "Choose to save Duke in the woods. ",
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/832628576e059bb1bddc9a02156d22e6421a00d9.jpg",
+    "apiname": "ACH_RIPGRETCH"
+  },
+  {
+    "key": "alright_then_keep_your_secrets",
+    "name": "Alright Then, Keep Your Secrets",
+    "description": "Don't tell Avery the truth about last night.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/6a6fdbc534fb3786e8d46d205fab4a295295f54b.jpg",
+    "apiname": "ACH_KEEPSECRET"
+  },
+  {
+    "key": "why_wont_they_just_do_their_jobs",
+    "name": "Why Won't They Just Do Their Jobs?",
+    "description": "Visit the Police in Episode 4.",
+    "chapter": 4,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/9538826933ef33efa8cb65a73239f2172427cb04.jpg",
+    "apiname": "ACH_POLICE4"
+  },
+  {
+    "key": "french_inspector",
+    "name": "French Inspector",
+    "description": "Finish Episode 2 with Keen Eye as one of your traits.",
+    "chapter": 2,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/3a87e99d901775a9a20dd2bcc8e3bf20ca0bc240.jpg",
+    "apiname": "ACH_KEEN2"
+  },
+  {
+    "key": "hygge",
+    "name": "Hygge",
+    "description": "Make a cozy nest for a fuzzy friend.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/69358e09580712ce8293ad89c7635ad9cf47f05d.jpg",
+    "apiname": "ACH_HYGGE"
+  },
+  {
+    "key": "jane_goodall",
+    "name": "Jane Goodall",
+    "description": "Finish Episode 2 with Talk to Animals as one of your traits.",
+    "chapter": 2,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/b2f2bef10ea6d51dd1cd25ea286293cc8435af39.jpg",
+    "apiname": "ACH_TTA2"
+  },
+  {
+    "key": "are_to_be_laid_upon_the_children",
+    "name": "Are To Be Laid Upon the Children",
+    "description": "A Scarlet Bears the Family's Sins.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/12e2504798e22473f99b8d2522d1b288e488718f.jpg",
+    "apiname": "ACH_SINSDEAL"
+  },
+  {
+    "key": "bell_pepper",
+    "name": "Bell Pepper",
+    "description": "Finish Episode 1 with Hot as one of your traits.",
+    "chapter": 1,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/60deb6f09d3006f1d833801f58169922bca973d3.jpg",
+    "apiname": "ACH_HOT1"
+  },
+  {
+    "key": "shall_not_be_visited_upon_the_son",
+    "name": "Shall Not Be Visited Upon the Son",
+    "description": "Reject the burden of your family's sins.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/1b3fd6e99c607e82789123498af16da4c5ecdca4.jpg",
+    "apiname": "ACH_SINSBREAK"
+  },
+  {
+    "key": "master_codebreaker",
+    "name": "Master Codebreaker",
+    "description": "Break into the forbidden wings of the Estate.",
+    "chapter": 0,
+    "tags": [],
+    "guide": "Enter the Forbidden Wing with the Street Smart trait. ",
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/6ac0cf1330ede74367573702775f9b64423279ab.jpg",
+    "apiname": "ACH_kington"
+  },
+  {
+    "key": "this_is_a_dating_sim_right",
+    "name": "This is a Dating Sim, Right?",
+    "description": "Start a romance.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/162dc747370951b9c8a386ddf287c8dd91324a98.jpg",
+    "apiname": "ACH_ROMANCE"
+  },
+  {
+    "key": "sand_hater",
+    "name": "Sand-Hater",
+    "description": "Finish Episode 2 with Mystical as one of your traits.",
+    "chapter": 2,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/f97b2350e7d821d824ab3e55204db102834bd632.jpg",
+    "apiname": "ACH_MYST2"
+  },
+  {
+    "key": "library_card",
+    "name": "Library Card",
+    "description": "Visit Oscar in the Library in Episode 4.",
+    "chapter": 4,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/c7f50d2ebe6070c1e0672dc18e78a174e6080730.jpg",
+    "apiname": "ACH_LIBRARY4"
+  },
+  {
+    "key": "at_the_edge_of_everything",
+    "name": "At the Edge of Everything...",
+    "description": "Find out what happened to Stella.",
+    "chapter": 0,
+    "tags": [],
+    "guide": "Multiple means to find her: Save Gretchen in Chapter 1. With the Talk to Animals trait, enlist the help of the Dog Militia at the Library. Inform Tabitha about Stella's disapearence and call her in the basement. Contact Stella at the start of Episode 4 and have an exelent relationship with her",
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/a8e2933ba27a19d548b8e850c471268d60a5d519.jpg",
+    "apiname": "ACH_STELLA_FOUND"
+  },
+  {
+    "key": "the_ravenous_bug",
+    "name": "The Ravenous Bug",
+    "description": "Finish Episode 1 with Book Smart as one of your traits.",
+    "chapter": 1,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/492a28c602589aa59a81c38c173b13c3a254a566.jpg",
+    "apiname": "ACH_BOOK1"
+  },
+  {
+    "key": "i_can_fix_her",
+    "name": "I can fix her!",
+    "description": "Spend some quality time with Tabitha.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/01ee037f7c004248c2c5c1c6afd76c169df8696c.jpg",
+    "apiname": "ACH_PROBLEMATICFAV"
+  },
+  {
+    "key": "i_want_to_talk_to_your_manager",
+    "name": "I Want to Talk to Your Manager",
+    "description": "Visit Tabitha's office during a clandestine investigation on Tuesday.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/cc5c51b41092554b997b10b387828a3b3b675006.jpg",
+    "apiname": "ACH_MANAGER"
+  },
+  {
+    "key": "pro_babysitter",
+    "name": "Pro Babysitter",
+    "description": "Stop Rosalina from slipping off in the mines.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/3a0da1a32690caac0898b300fcf637cc212d6cbf.jpg",
+    "apiname": "ACH_BABYSITTER"
+  },
+  {
+    "key": "a_path_in_the_woods",
+    "name": "A Path in the Woods",
+    "description": "Go on an adventure with your new friend.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/5c961b1cfba9c247b24a57966ec34d58542c5fbf.jpg",
+    "apiname": "ACH_STELLA_PATH"
+  },
+  {
+    "key": "detective_arriving_on_the_scene",
+    "name": "Detective Arriving on the Scene",
+    "description": "Finish Episode 3 with Keen Eye.",
+    "chapter": 3,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/b83df078220a7cfaae656471492f3b2c8fe49c5d.jpg",
+    "apiname": "ACH_KEEN3"
+  },
+  {
+    "key": "stealing_your_grandmas_credit_card",
+    "name": "Stealing Your Grandma's Credit Card",
+    "description": "Finish Episode 2 with Street Smart as one of your traits.",
+    "chapter": 2,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/9279b61f10b9c0f35ca8355fdb2383fc2a32ca47.jpg",
+    "apiname": "ACH_STREET2"
+  },
+  {
+    "key": "teen_talker",
+    "name": "Teen Talker",
+    "description": "Finish Episode 3 with Talk to Animals.",
+    "chapter": 3,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/cb365ffd877f92ea278df302256335c13c2cac34.jpg",
+    "apiname": "ACH_TTA3"
+  },
+  {
+    "key": "sticky_fingers",
+    "name": "Sticky Fingers",
+    "description": "Steal from the general store.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/6d5716224d6799b1eef1f867435c3f944de602cc.jpg",
+    "apiname": "ACH_STICKYFINGERS"
+  },
+  {
+    "key": "generous_campaign_contribution",
+    "name": "Generous Campaign Contribution",
+    "description": "Donate to a local politician.",
+    "chapter": 0,
+    "tags": [],
+    "guide": "In Chapter 1, take the peanuts from the Bus Stranger. Offer the peanuts to Mayor Jimmy in Chapter 3.",
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/f61adc2c3385bb2b45ec51987e126ec52f97b76a.jpg",
+    "apiname": "ACH_PAC"
+  },
+  {
+    "key": "mystery_machine",
+    "name": "Mystery Machine",
+    "description": "Ride with Kaneeka to the mines.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/3090dc1fd18217db4a0df851671b4e9b8ce42c02.jpg",
+    "apiname": "ACH_RIDEKANEEKA"
+  },
+  {
+    "key": "card_master",
+    "name": "Card Master",
+    "description": "Finish Episode 3 with Mystical.",
+    "chapter": 3,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/751248e28dedf1ad3461721607f376a6605d85a6.jpg",
+    "apiname": "ACH_MYST3"
+  },
+  {
+    "key": "lets_see_who_this_really_is",
+    "name": "Let's See Who This Really Is",
+    "description": "Is Oscar's house *really* haunted?",
+    "chapter": 0,
+    "tags": [],
+    "guide": "Make a Scooby Doo reference: Visit Oscar in the morning and state the 'ghost may be a man in a mask.' During the haunt investigation, say to 'split up and search for clues.'",
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/e85da7452df1fa23f737152b779b521218977a36.jpg",
+    "apiname": "ACH_FRED"
+  },
+  {
+    "key": "poblano",
+    "name": "Poblano",
+    "description": "Finish Episode 2 with Hot as one of your traits.",
+    "chapter": 2,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/67623ce490b803436eb2ea9f9d75daf806de05e5.jpg",
+    "apiname": "ACH_HOT2"
+  },
+  {
+    "key": "out_of_the_loop",
+    "name": "Out of the Loop",
+    "description": "Go after Rosalina without letting Tabitha in on what's going on.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/1b44a12c40bafaf16fe75e6376da89fe8e751925.jpg",
+    "apiname": "ACH_OOTL"
+  },
+  {
+    "key": "louisiana_hunch",
+    "name": "Louisiana Hunch",
+    "description": "Finish Episode 4 with Keen Eye.",
+    "chapter": 4,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/337a7f4227f2cb376dd594004d8cfd9eecf90e0a.jpg",
+    "apiname": "ACH_KEEN4"
+  },
+  {
+    "key": "whimsical_tree_adventure",
+    "name": "Whimsical Tree Adventure",
+    "description": "Finish Episode 2 with Book Smart as one of your traits.",
+    "chapter": 2,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/a8684e01a083a6ec99912eb653fea44b9a8f0653.jpg",
+    "apiname": "ACH_BOOK2"
+  },
+  {
+    "key": "this_is_a_stick_up",
+    "name": "This is a Stick-Up!",
+    "description": "Finish Episode 3 with Street Smart.",
+    "chapter": 3,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/3a9d26eeceee3a1ca1961ab43dec0478d8bfdd02.jpg",
+    "apiname": "ACH_STREET3"
+  },
+  {
+    "key": "creature_consolation",
+    "name": "Creature Consolation",
+    "description": "Finish Episode 4 with Talk to Animals.",
+    "chapter": 4,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/afa36d4a046851aab9f0aea5ca8b9a6f9e988a14.jpg",
+    "apiname": "ACH_TTA4"
+  },
+  {
+    "key": "southern_hospitality",
+    "name": "Southern Hospitality",
+    "description": "Spend some quality time with Stella.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/3bcd646de6046f4470937061a5397147b204b74f.jpg",
+    "apiname": "ACH_HOSPITALITY"
+  },
+  {
+    "key": "can_you_pet_the_dog",
+    "name": "Can You Pet the Dog?",
+    "description": "You can pet the dog in Scarlet Hollow.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/71cb25752dcff3673f111995a49faa98b6f9ef3c.jpg",
+    "apiname": "ACH_PETDOG"
+  },
+  {
+    "key": "mx_north_carolina",
+    "name": "Mx North Carolina",
+    "description": "Finish Episode 1 with Powerful Build as one of your traits.",
+    "chapter": 1,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/d18ecd0e8d3a081dcef02f434b9a603cb625e126.jpg",
+    "apiname": "ACH_PB1"
+  },
+  {
+    "key": "wish_maker",
+    "name": "Wish Maker",
+    "description": "Finish Episode 4 with Mystical.",
+    "chapter": 4,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/5450c27f3a05247abeb878453eb789f2a4ed7a5a.jpg",
+    "apiname": "ACH_MYST4"
+  },
+  {
+    "key": "dustin_quest",
+    "name": "Dustin Quest",
+    "description": "Meet Dustin's true enemy.",
+    "chapter": 0,
+    "tags": [],
+    "guide": "Requires the Talk to Animals trait and either the Street Smarts or Powerful Build trait. Speak to Dustin and Dustin Mom and offer to try to remove what's in the greenhouse. Go to the garden and open the lock to the greenhouse and discover the Goat.",
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/59061e912a23b9dc5ad32f0b8af82d8ac5a9c45f.jpg",
+    "apiname": "ACH_GOAT"
+  },
+  {
+    "key": "jalapeno",
+    "name": "Jalapeño",
+    "description": "Finish Episode 3 with Hot.",
+    "chapter": 3,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/a25ee0ca9ac2b9a3a244f50b66a718c7b45731e5.jpg",
+    "apiname": "ACH_HOT3"
+  },
+  {
+    "key": "at_least_its_probably_not_haunted",
+    "name": "At Least It's (Probably) Not Haunted",
+    "description": "Visit the Old Maxwell Place in Episode 4.",
+    "chapter": 4,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/851c0deaec08de241ca545524d2b0a5cea45c7d0.jpg",
+    "apiname": "ACH_MAXWELL4"
+  },
+  {
+    "key": "hackerman",
+    "name": "Hackerman",
+    "description": "Snoop on Stella's computer in Episode 4. Find everything!",
+    "chapter": 4,
+    "tags": [],
+    "guide": "With either the Street Smarts or Booksmarts trait, check Stella's computer and explore all dialogue options.",
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/8e337de6378403599555825e374ca5b8273fb731.jpg",
+    "apiname": "ACH_HACKER"
+  },
+  {
+    "key": "reading_adventure",
+    "name": "Reading Adventure",
+    "description": "Spend some time in the library on Tuesday.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/5befb3c53bc54d4befabd945599d9b3427e0e5af.jpg",
+    "apiname": "ACH_READING"
+  },
+  {
+    "key": "stealth_run",
+    "name": "Stealth Run",
+    "description": "Leave the mining camp without Tabitha being alerted to your presence.",
+    "chapter": 0,
+    "tags": [],
+    "guide": "Leave the mining camp without speaking to all groups of miners. Having the Street Smarts trait allows you to talk to all three groups without being caught by Tabitha.",
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/3b3504bfcccf8a80ca4145a82ef6109c1c6bea10.jpg",
+    "apiname": "ACH_STEALTHRUN"
+  },
+  {
+    "key": "the_gangs_all_here",
+    "name": "The Gang's All Here",
+    "description": "Go ghost hunting with the maximum number of participants.",
+    "chapter": 0,
+    "tags": [],
+    "guide": "Requires Gretchen to be saved in Chapter 1 and Alexis saved in Chapter 2. Avery and Tabitha must be invited as well.",
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/948f6dcbbc2fdadc6800d4fca274d50bdfb17b7f.jpg",
+    "apiname": "ACH_GHOSTMAX"
+  },
+  {
+    "key": "a_supernatural_love_affair",
+    "name": "A Supernatural Love Affair",
+    "description": "Finish Episode 3 with Book Smart.",
+    "chapter": 3,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/b7a3d18f7e344c8eb2880e9c1c63a5e07cd02585.jpg",
+    "apiname": "ACH_BOOK3"
+  },
+  {
+    "key": "good_ol_fashion_train_robbery",
+    "name": "Good ol' Fashion Train Robbery",
+    "description": "Finish Episode 4 with Street Smart.",
+    "chapter": 4,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/51cb69e81db0410bc9d5d80e4bc81f41fa6fc37c.jpg",
+    "apiname": "ACH_STREET4"
+  },
+  {
+    "key": "porque_no_los_dos",
+    "name": "Porqué no los Dos?",
+    "description": "Use a trait to get out of a sticky situation in Episode 1.",
+    "chapter": 1,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/63fe8fbd7791d92ffe1f816df8da33bc61cfda5a.jpg",
+    "apiname": "ACH_LOSDOS"
+  },
+  {
+    "key": "cutting_your_losses",
+    "name": "Cutting Your Losses",
+    "description": "Leave Becka and Alexis behind.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/8291208d6a255b8f425fa128a84e71d675dd1339.jpg",
+    "apiname": "ACH_CUTTINGLOSS"
+  },
+  {
+    "key": "cayenne",
+    "name": "Cayenne",
+    "description": "Finish Episode 4 with Hot.",
+    "chapter": 4,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/908b1ea94dba275e8bc2bd8de1936317eb814f2d.jpg",
+    "apiname": "ACH_HOT4"
+  },
+  {
+    "key": "mx_america",
+    "name": "Mx America",
+    "description": "Finish Episode 2 with Powerful Build as one of your traits.",
+    "chapter": 2,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/b7713ef3f38e0e1db56b27606a26ae357c9bd6d1.jpg",
+    "apiname": "ACH_PB2"
+  },
+  {
+    "key": "the_haunted_turnabout",
+    "name": "The Haunted Turnabout",
+    "description": "Win a trial.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/5bdc94a43da8ea99d5ca373ee7672fd93cd806e5.jpg",
+    "apiname": "ACH_PHOENIX"
+  },
+  {
+    "key": "of_mice_and_men",
+    "name": "Of Mice and Men",
+    "description": "Finish Episode 4 with Book Smart.",
+    "chapter": 4,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/ef39b255baa32c605a54df48b138bc2117f84b88.jpg",
+    "apiname": "ACH_BOOK4"
+  },
+  {
+    "key": "loremaster",
+    "name": "Loremaster",
+    "description": "Read every entry in all ~four~ books in the library!",
+    "chapter": 0,
+    "tags": [],
+    "guide": "Requires the Booksmart trait.",
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/c11c97538422714274546d2a1db52897747ade27.jpg",
+    "apiname": "ACH_LOREMASTER"
+  },
+  {
+    "key": "squelch",
+    "name": "Squelch",
+    "description": "Punch a Ditchling",
+    "chapter": 0,
+    "tags": [],
+    "guide": "In a playthrough where Duke lives, punch the Ditchlings out of your way with the Powerful Build.",
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/1c0ceb69183ee8a0d9d72f16eeec106fa667b585.jpg",
+    "apiname": "ACH_squelch"
+  },
+  {
+    "key": "i_never_forgot_about_you",
+    "name": "I Never Forgot About You",
+    "description": "Mend a Broken Relationship.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/e3ae15cd87c81e3940b9a6e71ea95551b74e856b.jpg",
+    "apiname": "ACH_STELLA_TABITHA"
+  },
+  {
+    "key": "tear_down_the_wall",
+    "name": "Tear Down the Wall",
+    "description": "Start Stella's romance.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/ae8663183b51113444d141cff6cd13377dfb90fd.jpg",
+    "apiname": "ACH_STELLAMANCE"
+  },
+  {
+    "key": "saving_the_family_business",
+    "name": "Saving the Family Business",
+    "description": "Stop someone from joining the strike.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/1bad25790531425f883687028df2d3d7c1cb46ab.jpg",
+    "apiname": "ACH_HARRISONSTOP"
+  },
+  {
+    "key": "mx_world",
+    "name": "Mx World",
+    "description": "Finish Episode 3 with Powerful Build.",
+    "chapter": 3,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/73612d467088689db5959286f1c82d7e27547492.jpg",
+    "apiname": "ACH_PB3"
+  },
+  {
+    "key": "refusing_the_call",
+    "name": "Refusing the Call",
+    "description": "The most fun move is not to play.",
+    "chapter": 0,
+    "tags": [],
+    "guide": "In Chapter 2, choose to stay at the estate and not meet Stella.",
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/73b12c0252a8591d185773ea2347aab4e2f60e91.jpg",
+    "apiname": "ACH_TUESDAY_ESTATE"
+  },
+  {
+    "key": "minion",
+    "name": "Minion",
+    "description": "Call Tabitha to tell her about Rosalina, then wait for her outside of the mine.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/fa215c61d4d452d3a465bfadc85eba1c462a801c.jpg",
+    "apiname": "ACH_MINION"
+  },
+  {
+    "key": "family_burdens",
+    "name": "Family Burdens",
+    "description": "Spend some quality time with Kaneeka.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/5a92bc7baf9c458e6d71b0a25768b07f1249ca41.jpg",
+    "apiname": "ACH_RIVER"
+  },
+  {
+    "key": "imma_deck_you_in_the_schnoz",
+    "name": "Imma deck you in the schnoz!",
+    "description": "In a single playthrough with Powerful Build, choose violence at least twice.",
+    "chapter": 0,
+    "tags": [],
+    "guide": "With the Powerful Build trait, punch the ditchlings in Chapter 1 and attempt to punch Wayne in Chapter 2. ",
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/fab6163c4ecd4c6cb23c68268894a0a9db0dd10a.jpg",
+    "apiname": "ACH_goku"
+  },
+  {
+    "key": "gretchen_sends_her_regards",
+    "name": "Gretchen Sends Her Regards",
+    "description": "Inform Frou-frou that Gretchen still draws breath in Episode 2.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/eaad14a908b823d592a0b2b0d2e7abce79d13b76.jpg",
+    "apiname": "ACH_GRETCHENREGARDS"
+  },
+  {
+    "key": "monster_lover",
+    "name": "Monster Lover",
+    "description": "Express romantic feelings for a certain special someone.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/d31200d4a2a99151486e4961834a188ccdf15973.jpg",
+    "apiname": "ACH_HOTMONSTER"
+  },
+  {
+    "key": "this_house_is_clean",
+    "name": "This House is Clean",
+    "description": "Say the Line",
+    "chapter": 0,
+    "tags": [],
+    "guide": "Requires the Mystic trait. After exorcising the ghost, choose the dialogue option 'the house is clean.'",
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/bbd8d2d0b831e4d41e8834311d84b60ceb4e9310.jpg",
+    "apiname": "ACH_POLTERGEIST"
+  },
+  {
+    "key": "lifeline",
+    "name": "Lifeline",
+    "description": "Get an important text at the end of Episode 3.",
+    "chapter": 0,
+    "tags": [],
+    "guide": "Have an excellent relationship with Stella and she will text you when you are in bed at the end of Chapter 3.",
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/05aed91c9b69e37ec1d72267adcce8aa76c5d523.jpg",
+    "apiname": "ACH_LIFELINE"
+  },
+  {
+    "key": "cracking_open_a_cold_one",
+    "name": "Cracking Open a Cold One",
+    "description": "Spend some quality time with Ol' Duke.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/cd5b6fc1029d3b667afdccb5d595ecacd3c5e534.jpg",
+    "apiname": "ACH_MONDAY_DUKE"
+  },
+  {
+    "key": "what_were_you_expecting",
+    "name": "What were you expecting?",
+    "description": "Pet Frou-frou in Episode 1 after being warned against it.",
+    "chapter": 1,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/8766be1505d9419f857e002adb27a0fed97bfaa1.jpg",
+    "apiname": "ACH_EXPECTATIONS"
+  },
+  {
+    "key": "rodriguez_the_rat",
+    "name": "Rodriguez the Rat",
+    "description": "Walk in on a meeting.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/9fc58e73caf44cb920fd237613c01b4b2ba139f8.jpg",
+    "apiname": "ACH_SNITCHSNITCH"
+  },
+  {
+    "key": "the_holler",
+    "name": "The Holler",
+    "description": "Chat with Kaneeka at the general store early Monday afternoon.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/9715c54b3996417a39f7f9dbdaf327b48d7f0b2c.jpg",
+    "apiname": "ACH_MONDAY_STORE"
+  },
+  {
+    "key": "mx_galaxy",
+    "name": "Mx Galaxy",
+    "description": "Finish Episode 4 with Powerful Build.",
+    "chapter": 4,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/0f672b477f3535eb32addc89bf8623e9e6d1e87c.jpg",
+    "apiname": "ACH_PB4"
+  },
+  {
+    "key": "tame_the_beast",
+    "name": "Tame the Beast",
+    "description": "Calm a tense situation.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/1105507ef046734c650ecd1e52ed9979f6a9c19a.jpg",
+    "apiname": "ACH_BEASTMASTER"
+  },
+  {
+    "key": "matricide",
+    "name": "Matricide",
+    "description": "It's finally over.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/fef294ae67a51a53186108542c9d9ace1aef537d.jpg",
+    "apiname": "ACH_MATRICIDE"
+  },
+  {
+    "key": "the_excavation_of_oscars_basement",
+    "name": "The Excavation of Oscar's Basement",
+    "description": "Return to the Basement.",
+    "chapter": 0,
+    "tags": [],
+    "guide": "Exorcise the ghost in Chapter 3, and visit Oscar at the library in Chapter 4. Choose the dialogue option to check the carving in the basement. (Rosalina can't be injured)",
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/10516913e311e5d0f38196cfc38df681f81b9671.jpg",
+    "apiname": "ACH_BASEMENT4"
+  },
+  {
+    "key": "mr_x",
+    "name": "Mr X.",
+    "description": "Meet up with Isaacs",
+    "chapter": 0,
+    "tags": [],
+    "guide": "Requires the Street Smart trait. In Chapter 2, approach the second group of miners and speak to them about Wayne. Ask who he was seeing and press them, and they will leave, but Isaacs will hesitate before leaving and an option to slip him your information will be available. In Chapter 3, he will request a meet-up at the diner.",
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/040b1d4ed142397547f0af1e5281290e2e06631a.jpg",
+    "apiname": "ACH_GUMSHOE"
+  },
+  {
+    "key": "angel_of_music",
+    "name": "Angel of Music",
+    "description": "Answer his call",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/f36ea37d5eedf1f9d6f39cfad9a1f6e96b6d60d0.jpg",
+    "apiname": "ACH_ANGEL"
+  },
+  {
+    "key": "where_in_the_world_is_stella_richmond",
+    "name": "Where in the World is Stella Richmond?",
+    "description": "Finish Episode 4 without finding Stella.",
+    "chapter": 4,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/456e13c3c397204284348cd5449165537d2b1fd1.jpg",
+    "apiname": "ACH_STELLA_GONE"
+  },
+  {
+    "key": "her_ladyships_chambers",
+    "name": "Her Ladyship's Chambers",
+    "description": "Explore Edwardine's bedroom",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/114d3c331142cde3f9e16bc325946dc7bc9d49b7.jpg",
+    "apiname": "ACH_CHAMBERS"
+  },
+  {
+    "key": "members_only",
+    "name": "Members Only",
+    "description": "",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/3848be99282d958f94b55229a718fdb852ccab5c.jpg",
+    "apiname": "ACH_MOUSEKETEER"
+  },
+  {
+    "key": "history_lesson",
+    "name": "History Lesson",
+    "description": "Have a chat at the library early Monday afternoon.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/32bbef05934ad93831f768d8674374105021dad8.jpg",
+    "apiname": "ACH_MONDAY_LIBRARY"
+  },
+  {
+    "key": "ginseng_baby",
+    "name": "Ginseng Baby",
+    "description": "Finish Episode 5.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/3811e022fdd71cd92790ae845d6de64aa1894f4f.jpg",
+    "apiname": "ACH_GINSENG"
+  },
+  {
+    "key": "pinkerton",
+    "name": "Pinkerton",
+    "description": "Give Tabitha a heads up about the strike.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/112d46a3399052c70d428a215b80c4e26cda29ac.jpg",
+    "apiname": "ACH_PINKERTON"
+  },
+  {
+    "key": "the_witch",
+    "name": "The Witch",
+    "description": "Actually Finish Episode 5.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/727e85743f3126b532175943a9cef1f24b312a4f.jpg",
+    "apiname": "ACH_WITCH"
+  },
+  {
+    "key": "im_looking_respectfully",
+    "name": "I'm Looking Respectfully.",
+    "description": "Spend some quality time with Oscar.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/238f4f0583e90b4a85d6554419ecfd887c8103f7.jpg",
+    "apiname": "ACH_FEMALEGAZE"
+  },
+  {
+    "key": "cousin_bonding_time",
+    "name": "Cousin Bonding Time",
+    "description": "Watch the flames.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/9bdd43a6d1a59dcdd47b2f127875b93af7df0f8c.jpg",
+    "apiname": "ACH_REESE_DEAD"
+  },
+  {
+    "key": "antagonistic_doctor_roleplay_asmr",
+    "name": "Antagonistic Doctor Roleplay (ASMR)",
+    "description": "Get a check-up.",
+    "chapter": 0,
+    "tags": [],
+    "guide": "Requires to have sacrificed your years in Chapter 3. On approaching the clinic in Episode 4, you will have a option to get a check up.",
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/c3d06ead1e123140caed9569774a68150023b221.jpg",
+    "apiname": "ACH_ASMR"
+  },
+  {
+    "key": "monster_lover_ii",
+    "name": "Monster Lover II",
+    "description": "Start Reese's romance.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/196137ef23410be4281b7c4796e6999a6aaa1ed3.jpg",
+    "apiname": "ACH_REESEMANCE"
+  },
+  {
+    "key": "i_dont_want_to_believe",
+    "name": "I (Don't) Want to Believe",
+    "description": "Get Stella to Believe in Mountain Lions.",
+    "chapter": 0,
+    "tags": [],
+    "guide": "Requires the Keen Eye trait. Gretchen must be saved and go to the ditchling nest during the climax of Chapter 1. In Chapter 2, read the folktale about the Wampus Cat and later mention that it sounds like mountain lions. Stella will disagree and the Keen Eye option will appear to state 'there was a mountain lion in the nest last night.'",
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/3c391df37992398dd64b3f89dffe5f62ae704832.jpg",
+    "apiname": "ACH_LION"
+  },
+  {
+    "key": "no",
+    "name": "No",
+    "description": "Finish Episode 1 in Hardcore Mode.",
+    "chapter": 1,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/6b9143f2f6c030e3d520fbf9851f4d308fd85dfd.jpg",
+    "apiname": "ACH_HARDCORE1"
+  },
+  {
+    "key": "times_three",
+    "name": "TIMES THREE!",
+    "description": "Choose violence at least three times.",
+    "chapter": 0,
+    "tags": [],
+    "guide": "Having punched the ditchlings in Chapter 1 and Wayne in Chapter 2, attempt to punch the Resonant or Wayne again during the haunt.",
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/28f76163ccb957775e844d283cc7451ffe85b291.jpg",
+    "apiname": "ACH_KAIOKEN"
+  },
+  {
+    "key": "thunder_road",
+    "name": "Thunder Road.",
+    "description": "Make plans to leave town with Kaneeka.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/bb5653d02db994dbc0cef6462f45853362674e48.jpg",
+    "apiname": "ACH_THUNDERROAD"
+  },
+  {
+    "key": "ice_cream_social",
+    "name": "Ice Cream Social",
+    "description": "Unwind with your family after a long day.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/d8a93ebe584ea33cabc557b8f91f6deb9a433ae9.jpg",
+    "apiname": "ACH_ICE_CREAM"
+  },
+  {
+    "key": "the_illusion_of_choice",
+    "name": "The Illusion of Choice",
+    "description": "Have a major choice taken away from you.",
+    "chapter": 0,
+    "tags": [],
+    "guide": "Have an excellent relationship with Tabitha and invite her to the ghost hunt. Make the decision to take the deal, but Tabitha will take your place instead.",
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/94c071a418bf9ee8f3bc4386870e5119e294123a.jpg",
+    "apiname": "ACH_ILLUSION"
+  },
+  {
+    "key": "new_kid_in_town",
+    "name": "New Kid in Town",
+    "description": "Spend some quality time with Avery.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/63013a37f7f4e7aa166c4c9a7e03cb194f230330.jpg",
+    "apiname": "ACH_EAGLES"
+  },
+  {
+    "key": "ya_blew_it",
+    "name": "Ya blew it",
+    "description": "Get a bad outcome while you had a trait that could have avoided it.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/62c38e1a9a9f57dc4a2241a107eceb52a60eba11.jpg",
+    "apiname": "ACH_oops"
+  },
+  {
+    "key": "no_no",
+    "name": "No no",
+    "description": "Finish Episode 2 in Hardcore Mode.",
+    "chapter": 2,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/d12ea50af2cf89a68e7a04188e51af287f03305a.jpg",
+    "apiname": "ACH_HARDCORE2"
+  },
+  {
+    "key": "obedient",
+    "name": "Obedient",
+    "description": "Do as you're told.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/2469b0b2fe738bcedac7e664ed2de5811f0d79b4.jpg",
+    "apiname": "ACH_OBEDIENT"
+  },
+  {
+    "key": "on_the_lamb",
+    "name": "On the Lamb",
+    "description": "",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/9a16c32f97141fa958e1cc991465a7e87c6248b0.jpg",
+    "apiname": "ACH_LAMB"
+  },
+  {
+    "key": "you_cant_start_a_fire",
+    "name": "You can't start a fire...",
+    "description": "Start Kaneeka's Romance",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/d9a90d4212881d87489b75ce5d4a9d60ce2d64fb.jpg",
+    "apiname": "ACH_KANEEKAMANCE"
+  },
+  {
+    "key": "father_how_do_i_click_the_book",
+    "name": "Father, how do I click the book?",
+    "description": "Leave the library in Episode 2 without reading any books.",
+    "chapter": 2,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/e1d9e16e62c0be9a9b1b3273f1c29c85b02006ad.jpg",
+    "apiname": "ACH_boomer"
+  },
+  {
+    "key": "no_no_no",
+    "name": "No no no",
+    "description": "Finish Episode 3 in Hardcore Mode.",
+    "chapter": 3,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/706e8dfcda247f276d014317e3674d38bfec2344.jpg",
+    "apiname": "ACH_HARDCORE3"
+  },
+  {
+    "key": "spill_the_tea",
+    "name": "Spill the Tea",
+    "description": "No thank you!",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/27bbf9f04b102101156b4e519138a769d5138e6e.jpg",
+    "apiname": "ACH_TEASPILL"
+  },
+  {
+    "key": "no_no_no_no",
+    "name": "No no no no",
+    "description": "Finish Episode 4 in Hardcore Mode.",
+    "chapter": 4,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/70cf87708d005b1d2187a6029e59649edb31f5a2.jpg",
+    "apiname": "ACH_HARDCORE4"
+  },
+  {
+    "key": "seance",
+    "name": "Seance",
+    "description": "With the Mystical trait, take every channeled dialogue option in the haunted house.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/47732f46c67d5c37aeb5bb912dfdb9b1085f02a6.jpg",
+    "apiname": "ACH_SEANCE"
+  },
+  {
+    "key": "missing_achievement_data",
+    "name": "Missing Achievement Data",
+    "description": "Forget somebody forever.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/aedb93802c767a097436098c88f87b7ac7b9e93a.jpg",
+    "apiname": "ACH_CHARACTER_FORGOTTEN"
+  },
+  {
+    "key": "its_a_boy",
+    "name": "It's a Boy!",
+    "description": "Quietly witness something's birth.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/b5c815cb90a8e44274386160f960f2e3c3ec7c6e.jpg",
+    "apiname": "ACH_ADOPTION"
+  },
+  {
+    "key": "shadowing_the_boss",
+    "name": "Shadowing the Boss",
+    "description": "Bother your cousin at work on Tuesday without anyone taking you to her.",
+    "chapter": 0,
+    "tags": [],
+    "guide": "In Chapter 2, head towards town and stop by the General Store. Ask for directions to the mines from Miles, and you will be able to head straight towards the mines.",
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/18dcfc2687201fbd2ee43b186b6985d811762011.jpg",
+    "apiname": "ACH_TUESDAY_MAP"
+  },
+  {
+    "key": "a_mockery_of_life",
+    "name": "A Mockery of Life",
+    "description": "Destroy something horrible before it can be born.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/f98384fee6a78cb38eeeb9d0ee86d7ee0271f948.jpg",
+    "apiname": "ACH_BABY_DESTROYED_PLAYER"
+  },
+  {
+    "key": "prying_pandora",
+    "name": "Prying Pandora",
+    "description": "Pull back the veil.",
+    "chapter": 0,
+    "tags": [],
+    "guide": "Requires the Powerful Build and Street Smart traits. When Wayne is encountered at the mines in Chapter 2, attack him. An option will allow you to remove his veil.",
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/6072944dde3f08bc7e6693f023267b40238d1de4.jpg",
+    "apiname": "ACH_phantom"
+  },
+  {
+    "key": "i_am_justice",
+    "name": "I AM JUSTICE!",
+    "description": "Finish Episode 5 with Mystical",
+    "chapter": 5,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/6864455ace02a6c8ad0e1087a602c0a8028e00f4.jpg",
+    "apiname": "ACH_MYST5"
+  },
+  {
+    "key": "unclean",
+    "name": "Unclean",
+    "description": "End Episode 3 without having showered.",
+    "chapter": 3,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/d6f0b62ed4077dc3a0806c794f11bf04a7a1be3b.jpg",
+    "apiname": "ACH_DIRTY"
+  },
+  {
+    "key": "straight_to_voicemail",
+    "name": "Straight to Voicemail",
+    "description": "Wilfully ignore a phone call while hiking in the woods.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/5ad76671871f121d1398fed7f5cff0c762a49c54.jpg",
+    "apiname": "ACH_MONDAY_VOICEMAIL"
+  },
+  {
+    "key": "shinigami_hunter",
+    "name": "Shinigami Hunter",
+    "description": "Finish Episode 5 with Keen Eye",
+    "chapter": 5,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/f888fe1ee5eeab4233d28c2d61118fc1d1e58c0d.jpg",
+    "apiname": "ACH_KEEN5"
+  },
+  {
+    "key": "the_power_of_heart",
+    "name": "The Power of Heart!",
+    "description": "Finish Episode 5 with Talk to Animals",
+    "chapter": 5,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/3dfdca36ef1d1106867a1abf99b039f791ef8956.jpg",
+    "apiname": "ACH_TTA5"
+  },
+  {
+    "key": "patient_zero",
+    "name": "Patient Zero",
+    "description": "Puke in front of the whole town.",
+    "chapter": 0,
+    "tags": [],
+    "guide": "Consume the moldy leftovers and hold in your vomit until you reach the diner. The player must not have chosen the Powerful Build trait.",
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/4a29e8c7b61df51c03b45a616577633f1ea0dd34.jpg",
+    "apiname": "ACH_PATZERO"
+  },
+  {
+    "key": "ecstasy",
+    "name": "Ecstasy",
+    "description": "Share a moment of bliss with your guardian angel.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/346cfa5b217a346c2cb421880a3f8c3d65b2d6f4.jpg",
+    "apiname": "ACH_WAYNE_ROMANCE_5"
+  },
+  {
+    "key": "evil_has_triumphed",
+    "name": "Evil Has Triumphed",
+    "description": "Inform Frou-frou of Gretchen's demise in Episode 2.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/58f2b8d1902342d9c289bf8b8e64cf63bad2263c.jpg",
+    "apiname": "ACH_EVILTRIUMPH"
+  },
+  {
+    "key": "bridge_salesman",
+    "name": "Bridge Salesman",
+    "description": "Finish Episode 5 with Street Smart",
+    "chapter": 5,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/ee01d2563ce6cb3f99a55239b807a100edf49885.jpg",
+    "apiname": "ACH_STREET5"
+  },
+  {
+    "key": "friendship_ended_with_dresser_rat",
+    "name": "Friendship Ended with Dresser Rat",
+    "description": "Now anybody else is my best friend.",
+    "chapter": 0,
+    "tags": [],
+    "guide": "Requires the Talk to Animals trait and having interacted with Dustin. During Sybil's tea reading she will mention the 'cat.' Suggest the cat could be Dustin.",
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/45af21597fbb5f587a29cba9e99a697dbae4bd56.jpg",
+    "apiname": "ACH_DUSTINBETRAY"
+  },
+  {
+    "key": "habanero",
+    "name": "Habanero",
+    "description": "Finish Episode 5 with Hot",
+    "chapter": 5,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/3c9e4c677d275590bfd50764c15444f92ecef3ba.jpg",
+    "apiname": "ACH_HOT5"
+  },
+  {
+    "key": "the_picture_of_dorian_gray",
+    "name": "The Picture of Dorian Gray",
+    "description": "Finish Episode 5 with Book Smart",
+    "chapter": 5,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/846053404f872868cca6258fc2263f926f106bd9.jpg",
+    "apiname": "ACH_BOOK5"
+  },
+  {
+    "key": "il_buono_il_brutto_il_cattivo",
+    "name": "Il buono, il brutto, il cattivo",
+    "description": "Survive a standoff after multiple shots have been fired.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/bba3496553a402faa6f04d96a29844a5608b1cf3.jpg",
+    "apiname": "ACH_SHOOT_OUT"
+  },
+  {
+    "key": "the_thread_woven_backwards",
+    "name": "The Thread Woven Backwards",
+    "description": "Pull the thread and reverse the tale.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/d34fc01c066eab9d55265c596c6ef5b06ab23c1d.jpg",
+    "apiname": "ACH_KANEEKA_MYSTIC"
+  },
+  {
+    "key": "dream_daddy",
+    "name": "Dream Daddy",
+    "description": "Start Oscar's romance.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/36687e4503d525d720e92aae2893fa4361fe5702.jpg",
+    "apiname": "ACH_OSCARMANCE"
+  },
+  {
+    "key": "worlds_apart",
+    "name": "Worlds Apart",
+    "description": "Reach an impasse with your cousin.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/535f22a5ddcb580c789d566937353799ff5d0a06.jpg",
+    "apiname": "ACH_IMPASSE_5"
+  },
+  {
+    "key": "a_world_without_you_there_to_guide_it",
+    "name": "A World Without You There to Guide It...",
+    "description": "Make no incorrect choices while retreading the past.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/d26334fa19e9af47e4aa945d79d82229250e6435.jpg",
+    "apiname": "ACH_HISTORY_ACE"
+  },
+  {
+    "key": "walk_in_clinic",
+    "name": "Walk-in Clinic",
+    "description": "Turn to the Doctor in your hour of need.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/8ebe9e61bf5f3cf5646acccd566d7c38f80fe277.jpg",
+    "apiname": "ACH_DOCTOR_HELP"
+  },
+  {
+    "key": "giving_the_slip",
+    "name": "Giving the Slip",
+    "description": "Use your wiles (or your abrasive personality) to slip away from Duke and join Stella instead.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/68e04535c20d6d6de07ab4e479a9e6f90ea1448d.jpg",
+    "apiname": "ACH_MONDAY_SLIP"
+  },
+  {
+    "key": "mx_universe",
+    "name": "Mx Universe",
+    "description": "Finish Episode 5 with Powerful Build",
+    "chapter": 5,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/dcaeb54c3b3425ca93715dec64fed54c33d74a71.jpg",
+    "apiname": "ACH_PB5"
+  },
+  {
+    "key": "there_was_never_a_in_scarlet_hollow",
+    "name": "There was never a ??? in Scarlet Hollow",
+    "description": "",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/6c97de79aa4187fba5204300ff98242caf46a799.jpg",
+    "apiname": "ACH_REDACTED_5"
+  },
+  {
+    "key": "the_boy_who_cried_nice_house",
+    "name": "The Boy Who Cried Nice House",
+    "description": "Lie to Tabitha about liking your room after already getting caught lying to her.",
+    "chapter": 0,
+    "tags": [],
+    "guide": "Lie to Tabitha about liking each room in the estate, without choosing the Street Smart trait options.",
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/082b6d7541ce9dfa5e8dbd9e3d9e73c58a6ca52e.jpg",
+    "apiname": "ACH_BOYCRY"
+  },
+  {
+    "key": "inaction_is_still_a_choice",
+    "name": "Inaction is still a choice",
+    "description": "",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/1115bf3d7d6e76d9e2ec844afef8bc0bdeb264a1.jpg",
+    "apiname": "ACH_BABY_CLOCK"
+  },
+  {
+    "key": "not_an_ambi_turner",
+    "name": "Not an Ambi-Turner.",
+    "description": "Just keep turning.",
+    "chapter": 0,
+    "tags": [],
+    "guide": "Requires Tabitha to not be present during the haunt. Attempt to leave and pick the 'turn back around' option until the game forces you into the next scene.",
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/1daafd211d8e2e3f9815c948131a67063082e074.jpg",
+    "apiname": "ACH_TURN"
+  },
+  {
+    "key": "nobody_left_to_do_better_than_this",
+    "name": "Nobody left to do better than this...",
+    "description": "Lose the barista",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/cdbdc061f336ef9ac283d0f1b9b128a19e552d59.jpg",
+    "apiname": "ACH_AVERY_DIES"
+  },
+  {
+    "key": "toxic_yuri",
+    "name": "Toxic Yuri",
+    "description": "Just get in the hole, Y/N.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/82dba88edd47ac7ae2abb84517d5e717d35eec03.jpg",
+    "apiname": "ACH_YURI"
+  },
+  {
+    "key": "just_the_two_of_us",
+    "name": "Just the Two of Us",
+    "description": "",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/22403d58306b03eef93b1dc1b4308dfdf1fa0ed1.jpg",
+    "apiname": "ACH_JUSTUS"
+  },
+  {
+    "key": "egg",
+    "name": "Egg",
+    "description": "It's growing inside you.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/85a850ff337150e25f20faf1a6ca697ec409d86d.jpg",
+    "apiname": "ACH_EGG"
+  },
+  {
+    "key": "breaking_point",
+    "name": "Breaking Point",
+    "description": "Make your cousin cry.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/54679010d2c2c1919e4dff8ec7ae473c96023853.jpg",
+    "apiname": "ACH_WALL"
+  },
+  {
+    "key": "get_out_of_my_head",
+    "name": "Get Out of My Head!",
+    "description": "With the Mystical trait, take none of the channeled dialogue options in the haunted house.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/0f26f4104752dd0fa25692772839c3fc37021a71.jpg",
+    "apiname": "ACH_GETOUT"
+  },
+  {
+    "key": "cat_and_mouse",
+    "name": "Cat and Mouse",
+    "description": "Without Tabitha present, run from Wayne at every opportunity in the haunted house.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/f86432e81a3f9401e630f9a87c5c5191cb2337f2.jpg",
+    "apiname": "ACH_FLIGHT"
+  },
+  {
+    "key": "get_stick_bugged",
+    "name": "Get Stick Bugged",
+    "description": "Communicate with the Elusive North Carolinian Phasmid.",
+    "chapter": 0,
+    "tags": [],
+    "guide": "Requires the Talk to Animals and Keen Eye trait, as well as a good relationship with Kaneeka. Before leaving for Dr. Kelly's, enter Kaneeka's room and choose the dialogue option about the terrarium.",
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/fec93d4ac467794c08c12e1bb44df379ecaf1007.jpg",
+    "apiname": "ACH_STICKBUG"
+  },
+  {
+    "key": "back_to_basics",
+    "name": "Back to Basics",
+    "description": "Turn to a YouTuber in your hour of need.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/8b5d78c1184e2c77cedf59c9ea2e2e6a13bce9eb.jpg",
+    "apiname": "ACH_STELLA_HELP"
+  },
+  {
+    "key": "a_second_chance_at_life",
+    "name": "A Second Chance at Life",
+    "description": "",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/fad578826a451ae8b75a5d2d40802d53077134f8.jpg",
+    "apiname": "ACH_AVERY_LIVES"
+  },
+  {
+    "key": "i_didnt_come_here_to_make_friends",
+    "name": "I Didn't Come Here to Make Friends",
+    "description": "Throw everyone under the bus when talking to Sybil in Episode 2.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/00f1464cc64df57fee6022b158597f111e8a9966.jpg",
+    "apiname": "ACH_NOFRIENDS"
+  },
+  {
+    "key": "i_feel_like_were_forgetting_someone",
+    "name": "I Feel Like We're Forgetting Someone",
+    "description": "Finish Episodes 4 and 5 Without Seeing Stella",
+    "chapter": 4,
+    "tags": [],
+    "guide": "GEnd Chapter 4 without finding Stella, and don't go to her for help during your morning panic OR have her be there when you confront Tabitha.",
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/edaa0aa19c6c984faddfe66e1531c3d8629b292b.jpg",
+    "apiname": "ACH_STELLA_STILL_MISSING"
+  },
+  {
+    "key": "tight_knit_social_circle",
+    "name": "Tight-Knit Social Circle",
+    "description": "Go ghost hunting with the minimum number of participants.",
+    "chapter": 0,
+    "tags": [],
+    "guide": "Requires Gretchen in Chapter 1 and Alexis in Chapter 2 to not be saved. Do not invite Avery or Tabitha.",
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/9203a0fe14864afee620978ffe665b2ce8177ca2.jpg",
+    "apiname": "ACH_GHOSTMIN"
+  },
+  {
+    "key": "ronnie_the_rat",
+    "name": "Ronnie the Rat",
+    "description": "Snitch on at least three separate occasions in Episode 2.",
+    "chapter": 0,
+    "tags": [],
+    "guide": "Snitch three different times: Snitch to Kaneeka about Miles letting you take the chips for free in the General Store. Admit to Dr. Kelly that you want to take Reese on an adventure. At the mines, visit Tabitha and tell her that Kaneeka and Stella sent you to investigate. At the mines, when spoken to all the miners, tell Tabitha you know about her relationship with Wayne, and tell her which miner told you.",
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/94196be88d98cc969b61fbf559373586e9d8e476.jpg",
+    "apiname": "ACH_SNITCH"
+  },
+  {
+    "key": "im_not_owned_im_not_owned",
+    "name": "I’m not owned! I’m not owned!",
+    "description": "Resist your new nickname.",
+    "chapter": 0,
+    "tags": [],
+    "guide": "Eat the moldy leftovers (without. having the Powerful Build trait) and puke at the diner in Chapter 1. Approach the miners in Chapter 2, and they will nickname you pukey. Resist the nickname in one of the Explore options.",
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/6d2eda4789090187258788c68baa3865c2f349fb.jpg",
+    "apiname": "ACH_DRIL"
+  },
+  {
+    "key": "the_police_are_here_to_help",
+    "name": "The Police are Here to Help!",
+    "description": "Go to the cops in your hour of need",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/693c1a34e164473ded6c951e6c705426444fa828.jpg",
+    "apiname": "ACH_COPS_HELP"
+  },
+  {
+    "key": "if_i_could_take_one_moment_into_my_hands",
+    "name": "If I could take one moment into my hands",
+    "description": "",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/aab15415d03c47a1bee6ca84d85f014fd6d26e72.jpg",
+    "apiname": "ACH_PROMISEDLAND"
+  },
+  {
+    "key": "one_stop_then_were_out_of_here",
+    "name": "One stop, then we're out of here!",
+    "description": "Hitch a ride with Avery",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/15859100b04698cfb273a0e6e26620fe242aa7fb.jpg",
+    "apiname": "ACH_AVERY_HELP"
+  },
+  {
+    "key": "the_calling",
+    "name": "The Calling",
+    "description": "",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/88aa9dfa8c5a01ff18b822a97c41bded1db98652.jpg",
+    "apiname": "ACH_REESE_HELP"
+  },
+  {
+    "key": "shared_burdens",
+    "name": "Shared Burdens",
+    "description": "",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/4edb9484b1c30fae230e91764d25b963ebdfad13.jpg",
+    "apiname": "ACH_KEEN_DOUBLE_SAVE"
+  },
+  {
+    "key": "ive_been_there_with_you_every_night_youve_been_alive",
+    "name": "I've been there with you every night you've been alive",
+    "description": "",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/585ff5db0edb65da93e64156c1ad27525264fa26.jpg",
+    "apiname": "ACH_RESPONSIBILITY"
+  },
+  {
+    "key": "the_floorplans_are_all_wrong",
+    "name": "The Floorplans are All Wrong",
+    "description": "Speak with Oscar after his research has turned up an important discovery.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/11adc1f9df35e185c6bbaea65ab8b27cff5b1e12.jpg",
+    "apiname": "ACH_OSCAR_FLOOR"
+  },
+  {
+    "key": "i_shouldnt",
+    "name": "I Shouldn't...",
+    "description": "Succumb to his seduction while committed to another.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/d09c83faaef18567af8430d76ac7913e649bc90d.jpg",
+    "apiname": "ACH_CHEATER"
+  },
+  {
+    "key": "you_cant_re_write_history_even_if_youd_like_to",
+    "name": "You can't re-write history, even if you'd like to",
+    "description": "Make every incorrect choice while retreading the past.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/b1676d90334a6c25a65fdaaecfadf74795adc819.jpg",
+    "apiname": "ACH_HISTORY_FLUNK"
+  },
+  {
+    "key": "dont_move",
+    "name": "Don't Move",
+    "description": "Push your cousin to the brink",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/0e61ba3119201159140fa99cc4b7c363c2a54d7c.jpg",
+    "apiname": "ACH_TABITHA_FIGHT_5"
+  },
+  {
+    "key": "roll_for_sanity",
+    "name": "Roll for Sanity",
+    "description": "Speak with Oscar after he's made contact with something... Other",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/32da883e7f29af8c1f39f48f54bf7779a1190673.jpg",
+    "apiname": "ACH_OSCAR_SANITY"
+  },
+  {
+    "key": "no_no_no_no_no",
+    "name": "No no no no no",
+    "description": "Finish Episode 5 in Hardcore Mode",
+    "chapter": 5,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/19ddab37caadd374e3f67d1cb7024ad3d13c62f0.jpg",
+    "apiname": "ACH_HARDCORE5"
+  },
+  {
+    "key": "law_abiding_citizen",
+    "name": "Law Abiding-Citizen",
+    "description": "Make it to the farms without ever being on the police's radar.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/2f86e79f5305326068f34b6909264f2dec949991.jpg",
+    "apiname": "ACH_LAWFUL"
+  },
+  {
+    "key": "yyou",
+    "name": "Y—you!",
+    "description": "You didn't think your actions would have consequences, did you?",
+    "chapter": 0,
+    "tags": [],
+    "guide": "In Chapter 1, either lie about your name to Kaneeka with the Street Smarts trait at the General Store, or puke in front of her, thachievement will trigger the next time you meet her.",
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/30266230a42e93ddaaf38a1ba650cf42400fd1c9.jpg",
+    "apiname": "ACH_KANEEKA_YOU"
+  },
+  {
+    "key": "ill_do_whats_best_for_you",
+    "name": "I'll do what's best for you...",
+    "description": "",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/7bbf9c5867b57fd3d71ad0bb732fa8060b8f061d.jpg",
+    "apiname": "ACH_REESE_ASSASSIN"
+  },
+  {
+    "key": "the_illusion_of_choice_ii",
+    "name": "The Illusion of Choice II",
+    "description": "Have a choice taken away from you in bounty's den.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/39d633c271b5fce53b699f306c3f5884d55245af.jpg",
+    "apiname": "ACH_ILLUSION_5"
+  },
+  {
+    "key": "missed_connection",
+    "name": "Missed Connection",
+    "description": "Chat with Winnie in Episode 5",
+    "chapter": 5,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/cda938178fb84ff1670b8cbda874eace66e557ea.jpg",
+    "apiname": "ACH_WINNIE_HELP"
+  },
+  {
+    "key": "slipping_through_your_words",
+    "name": "Slipping Through Your Words",
+    "description": "",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/b084488d0f3102ce03c28b3750e6291978934682.jpg",
+    "apiname": "ACH_KANEEKA_FAIL"
+  },
+  {
+    "key": "determination_at_last",
+    "name": "Determination at Last",
+    "description": "Speak with Oscar after he's chosen a dangerous course of action.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/2c952dbfc790fa62d5ea17dde35df9153df0b168.jpg",
+    "apiname": "ACH_OSCAR_DETERMINED"
+  },
+  {
+    "key": "united_we_stand",
+    "name": "United We Stand",
+    "description": "Start a riot",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/8e5528ea91df9332a5e05e3bcad30794796429ab.jpg",
+    "apiname": "ACH_RIOT_START"
+  },
+  {
+    "key": "beautiful_people_dont_do_ugly_things",
+    "name": "Beautiful People Don't Do Ugly Things",
+    "description": "Have your beauty save you from making a disastrous first impression in front of a *small* audience.",
+    "chapter": 0,
+    "tags": [],
+    "guide": "In Chapter 1, consume the moldy leftovers with the Hot trait (but also without the Powerful Build trait), hold in your vomit, and go straight to either the General Store or the Library.",
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/132958faad7e930524eeb4590dfa6366f587e013.jpg",
+    "apiname": "ACH_MONDAY_HOT_SAVE"
+  },
+  {
+    "key": "faustian_bargain",
+    "name": "Faustian Bargain",
+    "description": "",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/e1bae697fea3198e90a7ef6e075764d0f211442e.jpg",
+    "apiname": "ACH_FAUSTIAN_BARGAIN"
+  },
+  {
+    "key": "once_is_happenstance_twice_is_a_coincidence",
+    "name": "Once is happenstance, twice is a coincidence...",
+    "description": "",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/877ebb4fcfc3e5eac3551ceb0f69567cce445c05.jpg",
+    "apiname": "ACH_HUNGRY_BOY"
+  },
+  {
+    "key": "the_burden_of_memory",
+    "name": "The Burden of Memory",
+    "description": "",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/33345a4fa3f517c84980b9aa2f76d06098417c08.jpg",
+    "apiname": "ACH_KANEEKA_SACRIFICE_REMEMBER"
+  },
+  {
+    "key": "she_will_make_for_a_sacrificial_heart",
+    "name": "She Will Make for a Sacrificial Heart",
+    "description": "",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/4e463a52d9dd20501e558c9ae66b8d79a9f6dc13.jpg",
+    "apiname": "ACH_ROMANCE_KANEEKA_SACRIFICE"
+  },
+  {
+    "key": "pellet",
+    "name": "Pellet",
+    "description": "What happened to the bones?",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/45d9a197d862d940f037202823a767ca3d21e694.jpg",
+    "apiname": "ACH_OWL_PELLET"
+  },
+  {
+    "key": "cousinly_bonds",
+    "name": "Cousinly Bonds",
+    "description": "A Scarlet stops another from saving someone forgotten.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/fd0fecaa0324b7c963b831e8ef52ce2257eff6f7.jpg",
+    "apiname": "ACH_COUSIN_BOND_KANEEKA"
+  },
+  {
+    "key": "problematic_age_gap",
+    "name": "Problematic Age Gap",
+    "description": "Romance someone you know is much older than you.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/5eb2b197d9be163493ca0050123c079233c24718.jpg",
+    "apiname": "ACH_CARMILLAMANCE_REMEMBER"
+  },
+  {
+    "key": "back_to_how_things_were_last_night",
+    "name": "Back to How Things Were Last Night.",
+    "description": "Reach an uneasy truce after romancing your cousin's ex",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/e10895f9957a1bf36c11dd0aed3d1021fe3b9d0b.jpg",
+    "apiname": "ACH_TABITHA_STELLAMANCE_TRUCE"
+  },
+  {
+    "key": "anti_aging_solution",
+    "name": "Anti-Aging Solution",
+    "description": "Regain your lost years.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/4726c8e2cf01183ebb899c3eec6080199b1450c9.jpg",
+    "apiname": "ACH_ANTI_AGE"
+  },
+  {
+    "key": "reunited",
+    "name": "Reunited",
+    "description": "",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/4bb4a89c4aee6df7a2e02603e68891bf21a197d3.jpg",
+    "apiname": "ACH_WAYNE_ISAACS_VESSEL"
+  },
+  {
+    "key": "six_star_wanted_level",
+    "name": "Six Star Wanted Level",
+    "description": "",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/96f676446345601271543355c7b7efdf19025f87.jpg",
+    "apiname": "ACH_WANTED"
+  },
+  {
+    "key": "the_boys_in_blue",
+    "name": "The Boys in Blue",
+    "description": "",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/fc811b50bd29c6238077b7c539cbbc1a8961165e.jpg",
+    "apiname": "ACH_COPS_SURVIVE"
+  },
+  {
+    "key": "do_it_for_her",
+    "name": "Do It For Her",
+    "description": "",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/6e42b94df7d3fa27060f17f092faf30ca3fb0ad9.jpg",
+    "apiname": "ACH_TABBY_YOUNG"
+  },
+  {
+    "key": "retcon",
+    "name": "Retcon",
+    "description": "",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/5ec36261e1356283b183337a8a22d830f84ac452.jpg",
+    "apiname": "ACH_CARMILLAMANCE_FORGET"
+  },
+  {
+    "key": "send_more_cops",
+    "name": "Send more cops...",
+    "description": "Scarlet Hollow's finest are no more.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/a63658163d92c7aacb047d5602a70f0369476e1b.jpg",
+    "apiname": "ACH_COPS_DEAD"
+  },
+  {
+    "key": "for_the_greater_good",
+    "name": "For the Greater Good",
+    "description": "Successfully sacrifice yourself for the good of the town.",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/a2fe8510ba12c122f9d584bcb3a15f5df61e3abc.jpg",
+    "apiname": "ACH_GREATER_GOOD"
+  },
+  {
+    "key": "the_end_of_the_road",
+    "name": "The End of the Road",
+    "description": "Say goodbye to Oscar in Episode 5",
+    "chapter": 5,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/c7af330a2b99fb94b84ed695b6c98647a518b564.jpg",
+    "apiname": "ACH_OSCAR_BYE"
+  },
+  {
+    "key": "it_was_loaded",
+    "name": "It was loaded",
+    "description": "",
+    "chapter": 0,
+    "tags": [],
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1609230/317a7c0bfb95fd2ef379a1ff513381dab97e24cc.jpg",
+    "apiname": "ACH_SHOT_END"
+  }
+]

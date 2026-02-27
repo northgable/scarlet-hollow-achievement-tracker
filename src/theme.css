@@ -1,0 +1,511 @@
+/* =========
+   Scarlet Hollow — deep forest horror theme
+   ========= */
+
+:root{
+  --bg0:#070a08;
+  --bg1:#0b120e;
+  --panel:#0c1410cc;
+  --panel2:#0a110ecc;
+  --stroke:#223227;
+  --stroke2:#2b3e31;
+  --text:#e9efe9;
+  --muted:#b8c4b8;
+  --accent:#9bbf8f;      /* moss */
+  --accent2:#c85a5a;     /* scarlet */
+  --shadow: 0 18px 60px rgba(0,0,0,0.55);
+  --radius: 18px;
+}
+
+*{ box-sizing:border-box; }
+
+html, body{
+  height:100%;
+}
+
+body{
+  margin:0;
+  color:var(--text);
+  background:
+    radial-gradient(1100px 520px at 22% 12%, rgba(155,191,143,0.10), transparent 62%),
+    radial-gradient(900px 460px at 78% 18%, rgba(200,90,90,0.08), transparent 60%),
+    radial-gradient(1200px 700px at 45% 90%, rgba(40,85,60,0.12), transparent 62%),
+    linear-gradient(180deg, var(--bg0), var(--bg1));
+  font-family: ui-serif, Georgia, "Times New Roman", Times, serif;
+}
+
+/* subtle “needle” texture overlay (no obvious seam) */
+body::before{
+  content:"";
+  position: fixed;
+  inset: -30vmax; /* huge so it never shows edges while scrolling */
+  pointer-events:none;
+  z-index:-1;
+  opacity:0.28;
+  background:
+    repeating-linear-gradient(
+      135deg,
+      rgba(255,255,255,0.045) 0px,
+      rgba(255,255,255,0.045) 2px,
+      rgba(0,0,0,0) 2px,
+      rgba(0,0,0,0) 14px
+    );
+  transform: translateZ(0);
+}
+
+/* ========== Layout ========== */
+
+.sh-wrap{
+  width:min(1100px, calc(100% - 32px));
+  margin: 18px auto 44px;
+}
+
+.sh-toast{
+  position: fixed;
+  top: 18px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(10,18,13,0.92);
+  border: 1px solid rgba(155,191,143,0.28);
+  color: var(--text);
+  padding: 10px 14px;
+  border-radius: 999px;
+  box-shadow: var(--shadow);
+  z-index: 999;
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial;
+  font-size: 14px;
+}
+
+/* ========== Hero banner ========== */
+
+.sh-hero{
+  position: relative;
+  overflow: hidden;
+  border-radius: 22px;
+  border: 1px solid rgba(155,191,143,0.22);
+  box-shadow: var(--shadow);
+  background: #000;
+}
+
+.sh-hero img{
+  display:block;
+  width:100%;
+  height:auto;
+  /* important: prevents weird “bars” from transform/animation edges */
+  transform: translateZ(0);
+}
+
+.sh-hero::after{
+  content:"";
+  position:absolute;
+  inset:-12%; /* oversized so fog drift never reveals edges */
+  pointer-events:none;
+  z-index: 1;
+  background:
+    radial-gradient(900px 260px at 30% 40%, rgba(220,240,230,0.18), transparent 62%),
+    radial-gradient(700px 220px at 70% 30%, rgba(220,240,230,0.14), transparent 65%),
+    radial-gradient(900px 300px at 55% 70%, rgba(120,170,140,0.12), transparent 70%),
+    linear-gradient(180deg, rgba(0,0,0,0.10), rgba(0,0,0,0.62));
+  animation: fogDrift 14s ease-in-out infinite;
+}
+
+@keyframes fogDrift{
+  0%   { transform: translateX(-1.5%) translateY(0%); opacity: 0.90; }
+  50%  { transform: translateX(1.5%) translateY(0.6%); opacity: 1; }
+  100% { transform: translateX(-1.5%) translateY(0%); opacity: 0.90; }
+}
+
+.sh-heroBar{
+  position:absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 2;
+  padding: 18px 18px 16px;
+  background: linear-gradient(180deg, rgba(0,0,0,0), rgba(0,0,0,0.80));
+}
+
+.sh-title{
+  margin:0;
+  font-size: clamp(26px, 3.2vw, 40px);
+  letter-spacing: 0.2px;
+  text-shadow: 0 2px 18px rgba(0,0,0,0.7);
+}
+
+.sh-sub{
+  margin-top: 6px;
+  color: rgba(233,239,233,0.78);
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial;
+  font-size: 14px;
+}
+
+/* sentinel is invisible; used for sticky */
+.sh-stickySentinel{
+  height: 1px;
+}
+
+/* ========== Controls ========== */
+
+.sh-controls{
+  margin-top: 14px;
+  padding: 14px;
+  border-radius: var(--radius);
+  border: 1px solid rgba(155,191,143,0.22);
+  background: var(--panel);
+  box-shadow: var(--shadow);
+  backdrop-filter: blur(10px);
+  position: sticky;
+  top: 12px;
+  z-index: 50;
+}
+
+.sh-controls.is-pinned{
+  padding: 10px 12px;
+}
+
+.sh-topline{
+  display:flex;
+  align-items:center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.sh-progress{
+  display:flex;
+  align-items:center;
+  gap: 10px;
+  font-size: 18px;
+}
+
+.sh-topActions{
+  display:flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
+.sh-grid{
+  margin-top: 10px;
+  display:grid;
+  grid-template-columns: 160px 200px 220px 1fr;
+  gap: 10px;
+  align-items:end;
+}
+
+.sh-fieldWide{
+  grid-column: 4 / span 1;
+}
+
+.sh-field{
+  display:flex;
+  flex-direction:column;
+  gap:6px;
+}
+
+.sh-label{
+  color: rgba(233,239,233,0.72);
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial;
+  font-size: 12px;
+  letter-spacing: 0.2px;
+}
+
+.sh-input, select.sh-input{
+  width: 100%;
+  border-radius: 999px;
+  border: 1px solid rgba(155,191,143,0.20);
+  background: rgba(0,0,0,0.20);
+  color: var(--text);
+  padding: 10px 12px;
+  outline: none;
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial;
+}
+
+.sh-input:focus{
+  border-color: rgba(155,191,143,0.42);
+  box-shadow: 0 0 0 3px rgba(155,191,143,0.12);
+}
+
+.sh-checkField{
+  justify-content: flex-end;
+}
+.sh-check{
+  display:flex;
+  align-items:center;
+  gap: 8px;
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial;
+  color: rgba(233,239,233,0.88);
+}
+
+.sh-divider{
+  height: 1px;
+  background: rgba(155,191,143,0.16);
+  margin: 12px 0;
+}
+
+.sh-bottomline{
+  display:flex;
+  justify-content: space-between;
+  align-items:center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.sh-leftControls{
+  display:flex;
+  align-items:center;
+  gap: 14px;
+  flex-wrap: wrap;
+}
+
+.sh-rightControls{
+  display:flex;
+  align-items:center;
+  gap: 10px;
+}
+
+.sh-steam{
+  margin-top: 12px;
+  padding-top: 10px;
+  border-top: 1px solid rgba(155,191,143,0.14);
+}
+
+.sh-steamRow{
+  display:flex;
+  gap: 10px;
+  align-items:center;
+  flex-wrap: wrap;
+}
+
+.sh-steamInput{
+  flex: 1 1 380px;
+}
+
+.sh-tip{
+  margin-top: 8px;
+  color: rgba(233,239,233,0.62);
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial;
+  font-size: 12px;
+}
+
+/* When sticky, hide Steam section (subtle + elegant like you wanted) */
+.sh-controls.is-pinned .sh-steam{
+  display:none;
+}
+
+/* Make pinned controls a bit tighter */
+.sh-controls.is-pinned .sh-grid{
+  grid-template-columns: 140px 200px 220px 1fr;
+}
+.sh-controls.is-pinned .sh-divider{
+  margin: 10px 0;
+}
+
+/* ========== Buttons / Pills ========== */
+
+.sh-btn, .sh-btnGhost{
+  border-radius: 999px;
+  padding: 10px 14px;
+  cursor:pointer;
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial;
+  font-size: 14px;
+  border: 1px solid rgba(155,191,143,0.22);
+  background: rgba(0,0,0,0.22);
+  color: var(--text);
+}
+
+.sh-btn:hover{
+  border-color: rgba(200,90,90,0.42);
+  box-shadow: 0 0 0 3px rgba(200,90,90,0.10);
+}
+
+.sh-btnGhost{
+  opacity: 0.92;
+}
+.sh-btnGhost:hover{
+  border-color: rgba(155,191,143,0.36);
+  box-shadow: 0 0 0 3px rgba(155,191,143,0.10);
+}
+
+.sh-btn:disabled{
+  opacity: 0.55;
+  cursor: not-allowed;
+}
+
+.sh-pill{
+  display:inline-flex;
+  align-items:center;
+  gap: 8px;
+  margin-left: 10px;
+  padding: 6px 10px;
+  border-radius: 999px;
+  font-size: 12px;
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial;
+  border: 1px solid rgba(155,191,143,0.20);
+  background: rgba(0,0,0,0.22);
+  color: rgba(233,239,233,0.90);
+}
+.sh-pillGood{
+  border-color: rgba(155,191,143,0.30);
+  box-shadow: 0 0 0 3px rgba(155,191,143,0.08);
+}
+
+/* ========== List / Cards ========== */
+
+.sh-list{
+  margin-top: 14px;
+  display:flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.sh-card{
+  border-radius: var(--radius);
+  border: 1px solid rgba(155,191,143,0.18);
+  background: rgba(6,10,8,0.62);
+  box-shadow: 0 10px 30px rgba(0,0,0,0.40);
+  padding: 14px;
+  display:flex;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.sh-card:hover{
+  border-color: rgba(200,90,90,0.28);
+}
+
+.sh-card.is-done{
+  opacity: 0.92;
+  border-color: rgba(155,191,143,0.24);
+}
+
+.sh-left{
+  display:flex;
+  gap: 12px;
+  min-width: 0;
+  flex: 1;
+}
+
+.sh-icon{
+  width: 42px;
+  height: 42px;
+  border-radius: 12px;
+  border: 1px solid rgba(155,191,143,0.22);
+  background: rgba(0,0,0,0.25);
+  object-fit: cover;
+  flex: 0 0 auto;
+}
+
+.sh-iconEmpty{
+  display:inline-block;
+}
+
+.sh-main{
+  min-width: 0;
+}
+
+.sh-nameRow{
+  display:flex;
+  gap: 10px;
+  align-items: baseline;
+  flex-wrap: wrap;
+}
+
+.sh-name{
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.sh-meta{
+  color: rgba(233,239,233,0.70);
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial;
+  font-size: 13px;
+}
+
+.sh-desc{
+  margin-top: 6px;
+  color: rgba(233,239,233,0.90);
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial;
+  font-size: 14px;
+}
+
+.sh-muted{
+  color: rgba(233,239,233,0.64);
+  font-style: italic;
+}
+
+.sh-link{
+  border: 0;
+  background: transparent;
+  padding: 0;
+  cursor: pointer;
+  font: inherit;
+  color: var(--accent);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.sh-link:hover{
+  color: rgba(200,90,90,0.85);
+}
+
+.sh-guide{
+  margin-top: 10px;
+  border-left: 2px solid rgba(155,191,143,0.26);
+  padding-left: 10px;
+}
+
+.sh-guideTitle{
+  font-weight: 700;
+  margin-bottom: 4px;
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial;
+}
+
+.sh-pre{
+  white-space: pre-wrap;
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial;
+  font-size: 14px;
+  color: rgba(233,239,233,0.92);
+}
+
+.sh-tags{
+  margin-top: 8px;
+  font-size: 12px;
+  color: rgba(233,239,233,0.60);
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial;
+}
+
+.sh-right{
+  display:flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-end;
+  flex: 0 0 auto;
+}
+
+.sh-empty{
+  padding: 12px;
+  color: rgba(233,239,233,0.70);
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial;
+}
+
+/* responsive */
+@media (max-width: 920px){
+  .sh-grid{
+    grid-template-columns: 1fr 1fr;
+  }
+  .sh-fieldWide{
+    grid-column: 1 / -1;
+  }
+}
+@media (max-width: 560px){
+  .sh-topline{
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .sh-right{
+    align-items: stretch;
+    width: 100%;
+  }
+  .sh-right button{
+    width: 100%;
+  }
+}
